@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name WebUI for rtorrent flood
+// @name Dark webUI for rtorrent flood
 // @namespace joker999
 // @match *://*/overview
 // @grant GM_addStyle
