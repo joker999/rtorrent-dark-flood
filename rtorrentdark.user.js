@@ -10,6 +10,7 @@ var css=`
 .table__row--heading { background:#272D33; }
 .torrent--is-condensed { border-top: 1px solid #4E5A68; }
 .torrent__detail--name {color: #A1B8D3;}
+.torrent--is-condensed.torrent--is-stopped .torrent__detail { color: #728292; }
 .action-bar { background:#363E47; }
 .context-menu__items { background:#293341; }
 .menu__item.is-selectable {color:#9aafc9;}
